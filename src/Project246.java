@@ -14,6 +14,13 @@ public class Project246 {
     }
 }
 
+class carParts{
+
+    int cylinders = 8;
+
+
+}
+
 class car{
     private String model = "";
     private String make = "";
